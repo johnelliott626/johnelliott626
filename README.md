@@ -7,7 +7,7 @@ I am a passionate problem solver, interested in the exploration of computational
 - [Personal Finance Budgeting App](https://github.com/money-solutions/budget-app):
 Collaboratively developed a budgeting web-application with a peer student developer for users to create budgets and manage financial transactions. Proposed and implemented the relational database design schema and REST API endpoints. Implemented automated tests with Mocha & Chai and managed project lifecycle using Jira within an Agile framework.
 - [Efficient Sudoku](https://github.com/johnelliott626/sudoku):
-I created an artificial intelligence agent using constraint satisfaction problem techniques in Python that solves sudoku puzzles. I implemented 4 different solution variations to compare the performance of the state space complexity of each solution, to maximize efficiency.
+I created an artificial intelligence agent using constraint satisfaction problem techniques that solves sudoku puzzles. The program implements 4 different solution variations and compares the performance of the state space complexity of each solution and highlights the optimal algorithmic solution.
 - [Mindful Coach](https://github.com/SWE-JacksonTeam/MindfulCoach):
 Worked with a team of student developers to create an appointment scheduling CRM platform for a fictional life coaching company. Proposed system architectural design to team, implemented it, and learned Django and React.
 - [Stock Analysis App](https://github.com/johnelliott626/stock-analysis):
