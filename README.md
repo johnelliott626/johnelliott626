@@ -1,7 +1,9 @@
 # 👋 Hi there!
-I'm John, a senior Computer Science student at the University of South Florida expected to graduate in May 2024.
+I'm John. I studied computer science at the University of South Florida and currently work as a Software Engineer at [Citigroup](https://www.citi.com/). Here you'll find some side projects of mine from the past (messy-code alert but hey we all start somewhere 😊) and some that I am currently working on!
 
-I am a passionate problem solver, interested in the exploration of computational solutions to practical, humanitarian, and ethical issues. I am pursuing a career in software engineering in hopes to add value to the world and to contribute to innovative solutions.
+I am a passionate problem solver, interested in the exploration of computational solutions to practical, humanitarian, and ethical issues. I hope to add value to the world and contribute to solutions that help our neighbors. 
+
+Onward friends, there is grace for the journey! ☀️
 
 ## Projects
 - [Personal Finance Budgeting App](https://github.com/money-solutions/budget-app):
