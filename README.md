@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm John. I studied computer science at the University of South Florida and currently work as a Software Engineer at [Citigroup](https://www.citi.com/). Here you'll find some side projects of mine from the past (messy-code alert but hey we all start somewhere 😊) and some that I am currently working on!
+I'm John. I studied computer science at the University of South Florida and currently work as a Software Engineer at [Citi](https://www.citi.com/). Here you'll find some side projects of mine from the past (messy-code alert but hey we all start somewhere 😊) and some that I am currently working on!
 
 I am a passionate problem solver, interested in the exploration of computational solutions to practical, humanitarian, and ethical issues. I hope to add value to the world and contribute to solutions that help our neighbors. 
 
